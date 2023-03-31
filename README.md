@@ -1,3 +1,5 @@
+具体说明以及代码使用请参考：https://blog.csdn.net/z240626191s/article/details/129874988?spm=1001.2014.3001.5502
+
 # Object Detection with YOLOv5 on Android
 
 ## Introduction
